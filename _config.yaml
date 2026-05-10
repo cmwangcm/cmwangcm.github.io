@@ -1,13 +1,13 @@
 title: Chengming Wang
 description: Academic Homepage
-url: "https://chengmingwang.github.io"
+url: "https://cmwangcm.github.io"
 
 author:
   name: Chengming Wang
   position: PhD Student
   affiliation: Xi'an Jiaotong-Liverpool University
   email: Chengming.Wang23@student.xjtlu.edu.com
-  github: cmwangcm
+  github: https://github.com/cmwangcm
   google_scholar: https://scholar.google.com/citations?user=qfxquv4AAAAJ&hl=zh-CN&oi=ao
 
 markdown: kramdown

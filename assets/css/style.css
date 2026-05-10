@@ -1,0 +1,159 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Georgia, "Times New Roman", serif;
+  line-height: 1.7;
+  color: #222;
+  background: #f6f6f6;
+}
+
+.page {
+  max-width: 920px;
+  margin: 0 auto;
+  background: #fff;
+  min-height: 100vh;
+}
+
+.site-header {
+  border-bottom: 1px solid #ddd;
+  padding: 24px 32px;
+}
+
+.header-inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.site-title {
+  font-size: 24px;
+  font-weight: bold;
+  color: #222;
+  text-decoration: none;
+}
+
+.site-nav a {
+  margin-left: 18px;
+  color: #333;
+  text-decoration: none;
+  font-size: 15px;
+}
+
+.site-nav a:hover {
+  text-decoration: underline;
+}
+
+.content {
+  padding: 36px 32px;
+}
+
+.profile {
+  display: flex;
+  align-items: center;
+  gap: 32px;
+  margin-bottom: 36px;
+}
+
+.profile-photo {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 1px solid #ddd;
+}
+
+.profile-text h1 {
+  margin: 0;
+  font-size: 36px;
+}
+
+.subtitle {
+  font-size: 18px;
+  color: #555;
+  margin-top: 6px;
+}
+
+.links a {
+  color: #0056b3;
+}
+
+h1 {
+  font-size: 32px;
+  margin-top: 0;
+}
+
+h2 {
+  margin-top: 36px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid #ddd;
+  font-size: 24px;
+}
+
+h3 {
+  margin-top: 28px;
+  font-size: 20px;
+}
+
+a {
+  color: #0056b3;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+ul {
+  padding-left: 24px;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #ddd;
+  margin: 28px 0;
+}
+
+.site-footer {
+  border-top: 1px solid #ddd;
+  padding: 20px 32px;
+  color: #777;
+  font-size: 14px;
+}
+
+@media (max-width: 700px) {
+  .header-inner {
+    display: block;
+  }
+
+  .site-nav {
+    margin-top: 12px;
+  }
+
+  .site-nav a {
+    margin-left: 0;
+    margin-right: 14px;
+  }
+
+  .profile {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .profile-photo {
+    width: 120px;
+    height: 120px;
+  }
+
+  .profile-text h1 {
+    font-size: 30px;
+  }
+
+  .content {
+    padding: 28px 22px;
+  }
+
+  .site-header {
+    padding: 22px;
+  }
+}

@@ -48,6 +48,7 @@ Prior to commencing his PhD in 2024, he worked on large-scale AI-driven systems 
 - Modeling and Analysis of Driver Behavior
 - Mixed Traffic Modeling and Simulation
 - Connected and Autonomous Technologies
+- Traffic Flow Prediction
 
 ## News
 

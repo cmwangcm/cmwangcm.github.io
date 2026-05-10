@@ -12,7 +12,7 @@ permalink: /
     <h1>Chengming Wang</h1>
 
     <p class="subtitle">
-      PhD Student in Computer Science, focusing on Intelligent Transportation Systems (ITS)
+      PhD Student in Computer Science, focusing on Intelligent Transportation Systems
     </p>
 
     <p>

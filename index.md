@@ -16,7 +16,7 @@ permalink: /
     </p>
 
     <p>
-      Xi'an Jiaotong-Liverpool University
+      Xi'an Jiaotong-Liverpool University / University of Liverpool
     </p>
 
     <p>
@@ -47,12 +47,17 @@ Prior to commencing his PhD in 2024, he worked on large-scale AI-driven systems 
 - AI for Intelligent Transportation Systems
 - Modeling and Analysis of Driver Behavior
 - Mixed Traffic Modeling and Simulation
-- Connected and Autonomous Technologies
-- Traffic Flow Prediction
+- Connected and Autonomous Vehicle Control
+- Spatio-Temporal Traffic Flow Prediction
 
 ## News
 
-- **2026**: First-author paper published in *Transportation Research Part C*: *Extending car-following models to multi-lane traffic through Anticipation-Aware dynamic graph networks*.
-- **2025**: First-author paper published in *Communications in Transportation Research*: *A knowledge-informed deep learning paradigm for generalizable and stability-optimized car-following models*.
-- **2025**: First-author paper published in *Transportation Research Part C*: *Segment-then-refine: A general calibration framework incorporating intra-driver heterogeneity into car-following models*.
-- **2024**: First-author paper published at *IEEE ITSC 2024*: *A Novel Feature-Sharing Auto-Regressive Neural Network for Enhanced Car-Following Model Calibration*.
+- 📄🎓**2026-05-01**: Second-author paper accepted by *IEEE ITSC 2026: Extending Car-Following Models to Multi-Lane Traffic through Hierarchical Empirical Bayesian Calibration* (Supervised a master’s student on this work)
+- 📄**2026-03-19**: First-author paper accepted by *Transportation Research Part C: Extending car-following models to multi-lane traffic through Anticipation-Aware dynamic graph networks*
+- 📄**2025-10-20**: Third-author paper accepeted by *IEEE Transactions on Vehicular Technology: DRiVe: An Enhanced Coupling Design of Demand Prediction and Repositioning for Shared Autonomous Vehicle Systems*
+- 🏆**2025-09-20**: Received the Bronze Award in the "Artificial Intelligence" Track Selection Round and Outstanding Project Award in the Final of the 2025 BRICS Industrial Innovation Contest
+- 🏆**2025-07-25**: Received the Best Poster Award at the 25th COTA International Conference on Transportation Professionals (CICTP2025) 
+- 📄**2025-07-01**: Third-author paper accepted by *IEEE ITSC 2025: A Hierarchical Deep Reinforcement Learning Framework for Traffic Signal Control with Predictable Cycle Planning*
+- 📄**2025-06-21**: First-author paper accepted by *Communications in Transportation Research: A knowledge-informed deep learning paradigm for generalizable and stability-optimized car-following models*
+- 📄**2025-04-17**: First-author paper accepted by *Transportation Research Part C: Segment-then-refine: A general calibration framework incorporating intra-driver heterogeneity into car-following models*
+- 📄**2024-07-11**: First-author paper accepted by *IEEE ITSC 2024: A Novel Feature-Sharing Auto-Regressive Neural Network for Enhanced Car-Following Model Calibration*

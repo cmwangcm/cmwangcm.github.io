@@ -52,13 +52,12 @@ Prior to commencing his PhD in 2024, he worked on large-scale AI-driven systems 
 
 ## News
 
-| 📄🎓 **2026-05-01** | Second-author paper accepted by *IEEE ITSC 2026*: *Extending Car-Following Models to Multi-Lane Traffic through Hierarchical Empirical Bayesian Calibration*; supervised a master’s student on this work. |
-|---|---|
-| 📄 **2026-03-19** | First-author paper accepted by *Transportation Research Part C*: *Extending Car-Following Models to Multi-Lane Traffic through Anticipation-Aware Dynamic Graph Networks*. |
-| 📄 **2025-10-20** | Third-author paper accepted by *IEEE Transactions on Vehicular Technology*: *DRiVe: An Enhanced Coupling Design of Demand Prediction and Repositioning for Shared Autonomous Vehicle Systems*. |
-| 🏆 **2025-09-20** | Received the Bronze Award in the Artificial Intelligence Track Selection Round and the Outstanding Project Award in the Final of the 2025 BRICS Industrial Innovation Contest. |
-| 🏆 **2025-07-25** | Received the Best Poster Award at the 25th COTA International Conference on Transportation Professionals (CICTP 2025). |
-| 📄 **2025-07-01** | Third-author paper accepted by *IEEE ITSC 2025*: *A Hierarchical Deep Reinforcement Learning Framework for Traffic Signal Control with Predictable Cycle Planning*. |
-| 📄 **2025-06-21** | First-author paper accepted by *Communications in Transportation Research*: *A Knowledge-Informed Deep Learning Paradigm for Generalizable and Stability-Optimized Car-Following Models*. |
-| 📄 **2025-04-17** | First-author paper accepted by *Transportation Research Part C*: *Segment-then-Refine: A General Calibration Framework Incorporating Intra-Driver Heterogeneity into Car-Following Models*. |
-| 📄 **2024-07-11** | First-author paper accepted by *IEEE ITSC 2024*: *A Novel Feature-Sharing Auto-Regressive Neural Network for Enhanced Car-Following Model Calibration*. |
+| 📄🎓 2026-05-01 | Second-author paper accepted by *IEEE ITSC 2026*: *Extending Car-Following Models to Multi-Lane Traffic through Hierarchical Empirical Bayesian Calibration*; supervised a master’s student on this work. |
+| 📄 2026-03-19 | First-author paper accepted by *Transportation Research Part C*: *Extending Car-Following Models to Multi-Lane Traffic through Anticipation-Aware Dynamic Graph Networks*. |
+| 📄 2025-10-20 | Third-author paper accepted by *IEEE Transactions on Vehicular Technology*: *DRiVe: An Enhanced Coupling Design of Demand Prediction and Repositioning for Shared Autonomous Vehicle Systems*. |
+| 🏆 2025-09-20 | Received the Bronze Award in the Artificial Intelligence Track Selection Round and the Outstanding Project Award in the Final of the 2025 BRICS Industrial Innovation Contest. |
+| 🏆 2025-07-25 | Received the Best Poster Award at the 25th COTA International Conference on Transportation Professionals (CICTP 2025). |
+| 📄 2025-07-01 | Third-author paper accepted by *IEEE ITSC 2025*: *A Hierarchical Deep Reinforcement Learning Framework for Traffic Signal Control with Predictable Cycle Planning*. |
+| 📄 2025-06-21 | First-author paper accepted by *Communications in Transportation Research*: *A Knowledge-Informed Deep Learning Paradigm for Generalizable and Stability-Optimized Car-Following Models*. |
+| 📄 2025-04-17 | First-author paper accepted by *Transportation Research Part C*: *Segment-then-Refine: A General Calibration Framework Incorporating Intra-Driver Heterogeneity into Car-Following Models*. |
+| 📄 2024-07-11 | First-author paper accepted by *IEEE ITSC 2024*: *A Novel Feature-Sharing Auto-Regressive Neural Network for Enhanced Car-Following Model Calibration*. |

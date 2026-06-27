@@ -52,8 +52,8 @@ Prior to commencing his PhD in 2024, he worked on large-scale AI-driven systems 
 
 ## News
 
-- 🏆 **16 Jun 2026**:
-Received 2026 XJTLU Doctoral Research Excellence Award (one of three university-wide recipients).
+- 🏆 **16 Jun 2026**:  
+Received 2026 XJTLU Doctoral Research Excellence Award (one of three university-wide recipients)
 
 - 📄🎓 **01 May 2026**:  
 Second-author paper accepted by *IEEE ITSC 2026: Extending Car-Following Models to Multi-Lane Traffic through Hierarchical Empirical Bayesian Calibration* (Supervised a master’s student on this work)
